@@ -7,5 +7,5 @@ I need a JSON batch handler for ASP.NET but I was not able to find a complete sa
 
 Special thanks to @bhukivskyi for his sample code. 
 
-![ScreenShot](https://raw.github.com/gsaadeh/aspnet-webapi-json-batch/blob/master/sample.PNG)
+![ScreenShot](https://github.com/gsaadeh/aspnet-webapi-json-batch/raw/master/sample.PNG)
 
